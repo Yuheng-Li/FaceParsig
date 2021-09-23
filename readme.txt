@@ -13,3 +13,5 @@ Then run test.py
 
 Note1: dspth means input data_path in evaluate()
 Note2: saved results will be 512*512 res  
+
+WARNING: the result annotation (https://github.com/zllrunning/face-parsing.PyTorch/issues/12) is not same as CelebaHQ dataset annotation (https://github.com/switchablenorms/CelebAMask-HQ/tree/master/face_parsing)
