@@ -11,5 +11,5 @@ then prepare your data folder which only contains face images
 
 Then run test.py    
 
-Note1: dspth means data_path in evaluate()
+Note1: dspth means input data_path in evaluate()
 Note2: saved results will be 512*512 res  
